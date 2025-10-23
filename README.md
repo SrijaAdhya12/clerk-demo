@@ -1,4 +1,4 @@
-    updated on: 15th September 2025, Monday
+    updated on: 23rd October 2025, Thursday
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/clerk-demo">
@@ -126,4 +126,4 @@
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 [License]: https://github.com/SrijaAdhya12/clerk-demo/blob/main/LICENSE
 
-<!-- 15/09/25 -->
+<!-- 23/10/25 -->
